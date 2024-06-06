@@ -1,1 +1,0 @@
-This program finds the name of each message in the email listed. It does this by using only data from the line that starts with "From" because that line has the entire email, name, and timestamps of the message. This program specifically find the name, but it can find any element within the email.
